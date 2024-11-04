@@ -26,6 +26,14 @@ Type - Type or category of the item.
 Condition - Condition of the item (e.g., Mint, Good, Bad).
 Amount - Quantity of the item.
 
+
+
 Example of items.csv file structure:
 ![image](https://github.com/user-attachments/assets/6db5ff89-216c-4d9f-bcdd-05309c62e991)
+
+
+
+Class Diagram:
+![image](https://github.com/user-attachments/assets/47c32666-f942-4be9-8c3a-a45f9dd5991f)
+
 
