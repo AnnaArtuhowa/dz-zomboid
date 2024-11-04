@@ -1,0 +1,6 @@
+ID,Name,Type,Condition,Amount
+1,Hummer,Tool,Mint,10
+2,Nails,Fasteners,Good,450
+2,Nails,Fasteners,Bad,100
+3,Canned food,Food,Bad,3
+4,Bandage,Fasteners,Good,450
